@@ -1,0 +1,20 @@
+{
+  "id": "./index.html",
+  "name": "MERLYN PIRO 3D Salamandra",
+  "short_name": "Salamandra",
+  "description": "Análisis experimental de incendios forestales, de interfaz y estructurales (prototipo no validado para uso operacional)",
+  "lang": "es-MX",
+  "dir": "ltr",
+  "categories": ["utilities", "productivity"],
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#031118",
+  "theme_color": "#031118",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
